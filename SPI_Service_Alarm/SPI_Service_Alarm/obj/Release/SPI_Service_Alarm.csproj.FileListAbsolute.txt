@@ -1,0 +1,16 @@
+C:\Users\fernandos\Documents\Visual Studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Release\SPI_Service_Alarm.exe.config
+C:\Users\fernandos\Documents\Visual Studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Release\SPI_Service_Alarm.exe
+C:\Users\fernandos\Documents\Visual Studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Release\SPI_Service_Alarm.pdb
+C:\Users\fernandos\Documents\Visual Studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Release\Dapper.dll
+C:\Users\fernandos\Documents\Visual Studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Release\log4net.dll
+C:\Users\fernandos\Documents\Visual Studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Release\Newtonsoft.Json.dll
+C:\Users\fernandos\Documents\Visual Studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Release\Npgsql.dll
+C:\Users\fernandos\Documents\Visual Studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\fernandos\Documents\Visual Studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Release\Dapper.xml
+C:\Users\fernandos\Documents\Visual Studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Release\log4net.xml
+C:\Users\fernandos\Documents\Visual Studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Release\Newtonsoft.Json.xml
+C:\Users\fernandos\Documents\Visual Studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Release\Npgsql.xml
+C:\Users\fernandos\Documents\Visual Studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\fernandos\Documents\Visual Studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\obj\Release\SPI_Service_Alarm.csprojResolveAssemblyReference.cache
+C:\Users\fernandos\Documents\Visual Studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\obj\Release\SPI_Service_Alarm.exe
+C:\Users\fernandos\Documents\Visual Studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\obj\Release\SPI_Service_Alarm.pdb

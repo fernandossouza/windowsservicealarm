@@ -1,0 +1,19 @@
+c:\users\fernandos\documents\visual studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Debug\SPI_Service_Alarm.exe.config
+c:\users\fernandos\documents\visual studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\obj\Debug\SPI_Service_Alarm.csprojResolveAssemblyReference.cache
+c:\users\fernandos\documents\visual studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Debug\SPI_Service_Alarm.exe
+c:\users\fernandos\documents\visual studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Debug\SPI_Service_Alarm.pdb
+c:\users\fernandos\documents\visual studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Debug\log4net.dll
+c:\users\fernandos\documents\visual studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Debug\Newtonsoft.Json.dll
+c:\users\fernandos\documents\visual studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Debug\Npgsql.dll
+c:\users\fernandos\documents\visual studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Debug\System.Threading.Tasks.Extensions.dll
+c:\users\fernandos\documents\visual studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Debug\log4net.xml
+c:\users\fernandos\documents\visual studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Debug\Newtonsoft.Json.xml
+c:\users\fernandos\documents\visual studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Debug\Npgsql.xml
+c:\users\fernandos\documents\visual studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Debug\System.Threading.Tasks.Extensions.xml
+c:\users\fernandos\documents\visual studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\obj\Debug\SPI_Service_Alarm.exe
+c:\users\fernandos\documents\visual studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\obj\Debug\SPI_Service_Alarm.pdb
+C:\Users\fernandos\Documents\Visual Studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Debug\Dapper.dll
+C:\Users\fernandos\Documents\Visual Studio 2013\Projects\SPI_Service_Alarm\SPI_Service_Alarm\bin\Debug\Dapper.xml
+C:\Users\fernandos\Documents\Projetos\Mahle\Projeto\APIs\windowsservicealarm\SPI_Service_Alarm\SPI_Service_Alarm\bin\Debug\SPI_Service_Alarm.exe.config
+C:\Users\fernandos\Documents\Projetos\Mahle\Projeto\APIs\windowsservicealarm\SPI_Service_Alarm\SPI_Service_Alarm\obj\Debug\SPI_Service_Alarm.exe
+C:\Users\fernandos\Documents\Projetos\Mahle\Projeto\APIs\windowsservicealarm\SPI_Service_Alarm\SPI_Service_Alarm\obj\Debug\SPI_Service_Alarm.pdb
