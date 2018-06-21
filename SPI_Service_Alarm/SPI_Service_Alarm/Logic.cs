@@ -107,12 +107,12 @@ namespace SPI_Service_Alarm
                     int valorInt = Convert.ToInt32(ilTag.TagValue);
                     //Convertendo em bit
                     BitArray Alarmbit = new BitArray(new int[] { valorInt });
-                    if (Alarmbit[5] == true)
+                    if (Alarmbit[5] == true || Alarmbit[4] == true)
                     {
                         alarmeAtivo.alarmDescription = "Ok";
                         alarmeAtivo.priority = 0;
                         alarmeAtivo.alarmColor = "#0fa301";
-                    }
+                    }                    
                     if(Alarmbit[0]==true || Alarmbit[1]==true)
                     {
                         alarmeAtivo.alarmDescription = "Alto";
